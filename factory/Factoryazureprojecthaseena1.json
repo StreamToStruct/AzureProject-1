@@ -1,0 +1,9 @@
+{
+	"name": "Factoryazureprojecthaseena1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9cd29fe-b254-45a0-8af9-0283fe86a41c",
+		"tenantId": "118db2c4-039f-4f1c-9989-a6f40ef20bbe"
+	}
+}
